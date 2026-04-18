@@ -1,8 +1,11 @@
 # Environment variables
 .env
+.env.halite.key
 
 # Docker
 docker-compose.yml
 
 # Composer dependencies
 vendor/
+
+
